@@ -35,12 +35,9 @@
 
 <div id="stat" align="center">
     <a href="#">
-    <img src="https://github-profile-summary-cards.versel.app/api/cards/profile-details?username=TheHakerTech&theme=github_dark">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=TheHakerTech&show_icons=true&bg_color=00000000">
     </a>
     <a href="#">
-    <img src="https://github-profile-summary-cards.versel.app/api/cards/most-commit-language?username=TheHakerTech&theme=github_dark">
-    </a>
-    <a href="#">
-    <img src="https://github-profile-summary-cards.versel.app/api/cards/stats?username=TheHakerTech&theme=github_dark">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheHakerTech&layout=compact&show_icons=true&bg_color=00000000">
     </a>
 </div>
