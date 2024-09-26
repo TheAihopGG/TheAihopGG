@@ -34,7 +34,13 @@
 </a>
 
 <div id="stat" align="center">
+    <a href="#">
     <img src="https://github-profile-summary-cards.versel.app/api/cards/profile-details?username=TheHakerTech&theme=github_dark">
+    </a>
+    <a href="#">
     <img src="https://github-profile-summary-cards.versel.app/api/cards/most-commit-language?username=TheHakerTech&theme=github_dark">
+    </a>
+    <a href="#">
     <img src="https://github-profile-summary-cards.versel.app/api/cards/stats?username=TheHakerTech&theme=github_dark">
+    </a>
 </div>
