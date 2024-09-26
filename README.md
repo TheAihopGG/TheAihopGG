@@ -1,16 +1,40 @@
-## Hi there 👋
+<div id="header" align="center">
+    <h1>Hi there, I'm Alexey</h1>
+    <h3>Python developer, HTML & CSS, my main hobby is IT</h3>
+</div>
 
-<!--
-**TheHakerTech/TheHakerTech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About me
 
-Here are some ideas to get you started:
+- I'm friendly
+- I believe that a close-knit group can do anything.
+- I can answer your questions
+- I can speak English and Russian
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contacts
+
+[![Discord](https://img.shields.io/badge/Discord-steelblue?style=for-the-badge&logo=Discord&logoColor=white)](https://discord.gg/WKuWVxy4)
+[![Telegram](https://img.shields.io/badge/Telegram-dodgerblue?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/optech)
+
+## Languages & Tools
+
+<a href="https://www.python.org/">
+    <img style="height: 48px; width: 48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+</a>
+<a href="https://godotengine.org/">
+    <img style="height: 48px; width: 48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg">
+</a>
+<a href="https://htmlbook.ru/">
+    <img style="height: 48px; width: 48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+</a>
+<a href="https://developer.mozilla.org/ru/docs/Web/CSS">
+    <img style="height: 48px; width: 48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+</a>
+<a href="https://www.sqlite.org/">
+    <img style="height: 48px; width: 48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg">
+</a>
+
+<div id="stat" align="center">
+    <img src="https://github-profile-summary-cards.versel.app/api/cards/profile-details?username=TheHakerTech&theme=github_dark">
+    <img src="https://github-profile-summary-cards.versel.app/api/cards/most-commit-language?username=TheHakerTech&theme=github_dark">
+    <img src="https://github-profile-summary-cards.versel.app/api/cards/stats?username=TheHakerTech&theme=github_dark">
+</div>
