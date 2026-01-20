@@ -10,11 +10,6 @@
 - I can answer your questions
 - I can speak English and Russian
 
-## Contacts
-
-[![Discord](https://img.shields.io/badge/Discord-steelblue?style=for-the-badge&logo=Discord&logoColor=white)](https://discord.gg/WKuWVxy4)
-[![Telegram](https://img.shields.io/badge/Telegram-dodgerblue?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/theaihopgg)
-
 ## Languages & Tools
 
 <a href="https://www.python.org/">
